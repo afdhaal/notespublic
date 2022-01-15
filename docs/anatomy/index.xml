@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anatomy on ZDoc</title>
+    <link>https://notes.zumafi.com/docs/anatomy/</link>
+    <description>Recent content in Anatomy on ZDoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 15 Jan 2022 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://notes.zumafi.com/docs/anatomy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Thorax</title>
+        <link>https://notes.zumafi.com/docs/anatomy/thorax/</link>
+        <pubDate>Sat, 15 Jan 2022 10:08:56 +0900</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/anatomy/thorax/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Depth 2</title>
+        <link>https://notes.zumafi.com/docs/anatomy/headandneck/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/anatomy/headandneck/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Upperlimb</title>
+        <link>https://notes.zumafi.com/docs/anatomy/upperlimb/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/anatomy/upperlimb/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>How to study anatomy</title>
+        <link>https://notes.zumafi.com/docs/anatomy/howtostudy/</link>
+        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/anatomy/howtostudy/</guid>
+        <description>asdfasdf</description>
+      </item>
+      
+      <item>
+        <title>Abdomen</title>
+        <link>https://notes.zumafi.com/docs/anatomy/abdomen/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/anatomy/abdomen/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>learn More</title>
+        <link>https://notes.zumafi.com/docs/anatomy/learnmore/</link>
+        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/anatomy/learnmore/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Lowerlimb</title>
+        <link>https://notes.zumafi.com/docs/anatomy/lowerlimb/</link>
+        <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/anatomy/lowerlimb/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>
