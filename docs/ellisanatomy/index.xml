@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anatomy on ZDoc</title>
+    <link>https://notes.zumafi.com/docs/ellisanatomy/</link>
+    <description>Recent content in Anatomy on ZDoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 15 Jan 2022 10:08:56 +0900</lastBuildDate>
+    
+        <atom:link href="https://notes.zumafi.com/docs/ellisanatomy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Thorax</title>
+        <link>https://notes.zumafi.com/docs/ellisanatomy/thorax/</link>
+        <pubDate>Sat, 15 Jan 2022 10:08:56 +0900</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/ellisanatomy/thorax/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Head and Neck</title>
+        <link>https://notes.zumafi.com/docs/ellisanatomy/headandneck/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/ellisanatomy/headandneck/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Upperlimb</title>
+        <link>https://notes.zumafi.com/docs/ellisanatomy/upperlimb/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/ellisanatomy/upperlimb/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Abdomen</title>
+        <link>https://notes.zumafi.com/docs/ellisanatomy/abdomen/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/ellisanatomy/abdomen/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Lowerlimb</title>
+        <link>https://notes.zumafi.com/docs/ellisanatomy/lowerlimb/</link>
+        <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/ellisanatomy/lowerlimb/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>
