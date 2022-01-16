@@ -8,18 +8,8 @@
   </url>
   
   <url>
-    <loc>https://notes.zumafi.com/docs/anatomy/abdomen/basicusage/</loc>
-    <lastmod>2020-01-28T00:34:51+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://notes.zumafi.com/updates/2019_april/</loc>
     <lastmod>2020-01-28T00:10:48+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.zumafi.com/docs/anatomy/abdomen/configuration/</loc>
-    <lastmod>2020-01-28T00:34:56+09:00</lastmod>
   </url>
   
   <url>
@@ -28,18 +18,8 @@
   </url>
   
   <url>
-    <loc>https://notes.zumafi.com/docs/anatomy/abdomen/installation/</loc>
-    <lastmod>2020-01-28T00:34:13+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://notes.zumafi.com/updates/2019_february/</loc>
     <lastmod>2020-01-28T00:10:37+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.zumafi.com/docs/anatomy/abdomen/quickstart/</loc>
-    <lastmod>2020-01-28T00:34:41+09:00</lastmod>
   </url>
   
   <url>
@@ -68,7 +48,17 @@
   </url>
   
   <url>
-    <loc>https://notes.zumafi.com/docs/anatomy/headandneck/depth3/</loc>
+    <loc>https://notes.zumafi.com/docs/anatomy/upperlimb/bones/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.zumafi.com/docs/hugomd/menu1/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.zumafi.com/docs/hugomd/menu1/depth3/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -78,13 +68,13 @@
   </url>
   
   <url>
-    <loc>https://notes.zumafi.com/docs/anatomy/upperlimb/</loc>
+    <loc>https://notes.zumafi.com/docs/hugomd/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://notes.zumafi.com/docs/anatomy/howtostudy/</loc>
-    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
+    <loc>https://notes.zumafi.com/docs/anatomy/upperlimb/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -93,23 +83,23 @@
   </url>
   
   <url>
-    <loc>https://notes.zumafi.com/docs/anatomy/headandneck/test2/</loc>
+    <loc>https://notes.zumafi.com/docs/hugomd/menu1/test2/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://notes.zumafi.com/docs/anatomy/headandneck/depth3/test3/</loc>
+    <loc>https://notes.zumafi.com/docs/hugomd/test2/</loc>
+    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.zumafi.com/docs/hugomd/menu1/depth3/test3/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://notes.zumafi.com/docs/anatomy/abdomen/</loc>
     <lastmod>2020-01-28T00:34:39+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.zumafi.com/docs/anatomy/learnmore/</loc>
-    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
   
   <url>
@@ -158,33 +148,8 @@
   </url>
   
   <url>
-    <loc>https://notes.zumafi.com/docs/relatedcontent/</loc>
-    <lastmod>2020-01-28T00:39:09+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.zumafi.com/docs/pageresources/</loc>
-    <lastmod>2020-01-28T00:39:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.zumafi.com/docs/pagebundles/</loc>
-    <lastmod>2020-01-28T00:38:59+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.zumafi.com/docs/contentfortmats/</loc>
-    <lastmod>2020-01-28T00:38:51+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://notes.zumafi.com/docs/anatomy/upperlimb/cubital-fossa/</loc>
     <lastmod>2020-01-28T00:38:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.zumafi.com/docs/imageprocessing/</loc>
-    <lastmod>2020-01-28T00:38:48+09:00</lastmod>
   </url>
   
   <url>
@@ -200,11 +165,6 @@
   <url>
     <loc>https://notes.zumafi.com/updates/</loc>
     <lastmod>2020-01-28T00:08:29+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://notes.zumafi.com/docs/anatomy/</loc>
-    <lastmod>2020-01-11T14:09:21+09:00</lastmod>
   </url>
   
   <url>
@@ -233,12 +193,12 @@
   </url>
   
   <url>
-    <loc>https://notes.zumafi.com/blog/markdown-syntax/</loc>
+    <loc>https://notes.zumafi.com/docs/hugomd/coremarkdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://notes.zumafi.com/docs/anatomy/lowerlimb/sections/</loc>
+    <loc>https://notes.zumafi.com/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -280,6 +240,10 @@
   <url>
     <loc>https://notes.zumafi.com/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notes.zumafi.com/docs/anatomy/lowerlimb/basicsoflowerlimb/</loc>
   </url>
   
 </urlset>

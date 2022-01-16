@@ -24,29 +24,11 @@
       </item>
       
       <item>
-        <title>Basic Usage</title>
-        <link>https://notes.zumafi.com/docs/anatomy/abdomen/basicusage/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
-        
-        <guid>https://notes.zumafi.com/docs/anatomy/abdomen/basicusage/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
         <title>April 2019</title>
         <link>https://notes.zumafi.com/updates/2019_april/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:48 +0900</pubDate>
         
         <guid>https://notes.zumafi.com/updates/2019_april/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Configuration</title>
-        <link>https://notes.zumafi.com/docs/anatomy/abdomen/configuration/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
-        
-        <guid>https://notes.zumafi.com/docs/anatomy/abdomen/configuration/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -60,29 +42,11 @@
       </item>
       
       <item>
-        <title>Installation</title>
-        <link>https://notes.zumafi.com/docs/anatomy/abdomen/installation/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
-        
-        <guid>https://notes.zumafi.com/docs/anatomy/abdomen/installation/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
         <title>February 2019</title>
         <link>https://notes.zumafi.com/updates/2019_february/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
         
         <guid>https://notes.zumafi.com/updates/2019_february/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Quick Start</title>
-        <link>https://notes.zumafi.com/docs/anatomy/abdomen/quickstart/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
-        
-        <guid>https://notes.zumafi.com/docs/anatomy/abdomen/quickstart/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -96,15 +60,6 @@
       </item>
       
       <item>
-        <title>How to study anatomy</title>
-        <link>https://notes.zumafi.com/docs/anatomy/howtostudy/</link>
-        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>https://notes.zumafi.com/docs/anatomy/howtostudy/</guid>
-        <description>asdfasdf</description>
-      </item>
-      
-      <item>
         <title>Radius</title>
         <link>https://notes.zumafi.com/docs/anatomy/upperlimb/bones/radius/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
@@ -115,28 +70,28 @@
       
       <item>
         <title>Test 2</title>
-        <link>https://notes.zumafi.com/docs/anatomy/headandneck/test2/</link>
+        <link>https://notes.zumafi.com/docs/hugomd/menu1/test2/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://notes.zumafi.com/docs/anatomy/headandneck/test2/</guid>
+        <guid>https://notes.zumafi.com/docs/hugomd/menu1/test2/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Test 2</title>
+        <link>https://notes.zumafi.com/docs/hugomd/test2/</link>
+        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/hugomd/test2/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Test 3</title>
-        <link>https://notes.zumafi.com/docs/anatomy/headandneck/depth3/test3/</link>
+        <link>https://notes.zumafi.com/docs/hugomd/menu1/depth3/test3/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://notes.zumafi.com/docs/anatomy/headandneck/depth3/test3/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>learn More</title>
-        <link>https://notes.zumafi.com/docs/anatomy/learnmore/</link>
-        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>https://notes.zumafi.com/docs/anatomy/learnmore/</guid>
+        <guid>https://notes.zumafi.com/docs/hugomd/menu1/depth3/test3/</guid>
         <description></description>
       </item>
       
@@ -147,43 +102,6 @@
         
         <guid>https://notes.zumafi.com/docs/anatomy/upperlimb/arteries/</guid>
         <description>Arteries of the upperlimb The axillary artery  Commences at the first rib. Ends at the lowerborder of the axilla. i.e Teres major. It has three parts. The three parts are divided by the overlying pectoralis minor muscle. Mostly covered by the pectoralis major muscle. Brachial plexus cords are named in relation to the axillary artery (distal to the pectoralis minor.) Branches of the axillary artery supplies the chest wall and the shoulder.</description>
-      </item>
-      
-      <item>
-        <title>Related content</title>
-        <link>https://notes.zumafi.com/docs/relatedcontent/</link>
-        <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
-        
-        <guid>https://notes.zumafi.com/docs/relatedcontent/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Page Resources</title>
-        <link>https://notes.zumafi.com/docs/pageresources/</link>
-        <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
-        
-        <guid>https://notes.zumafi.com/docs/pageresources/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Page Bundles</title>
-        <link>https://notes.zumafi.com/docs/pagebundles/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
-        
-        <guid>https://notes.zumafi.com/docs/pagebundles/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Content Formats</title>
-        <link>https://notes.zumafi.com/docs/contentfortmats/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
-        
-        <guid>https://notes.zumafi.com/docs/contentfortmats/</guid>
-        <description>Markdown here
-Hi there</description>
       </item>
       
       <item>
@@ -199,15 +117,6 @@ Hi there</description>
  Brachialis Supinator    Contents (Medial to lateral)
  My Brother Throws Red Parties
   Median nerve Brachial artery Tendon of biceps Radial nerve + branch  Posterior interosseous nerve    Superficial branch of the radial nerve passes under brachioradialis - Not mentioned in the contents</description>
-      </item>
-      
-      <item>
-        <title>Image Processing</title>
-        <link>https://notes.zumafi.com/docs/imageprocessing/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
-        
-        <guid>https://notes.zumafi.com/docs/imageprocessing/</guid>
-        <description>Markdown here</description>
       </item>
       
       <item>
@@ -229,38 +138,12 @@ Hi there</description>
       </item>
       
       <item>
-        <title>Anatomy</title>
-        <link>https://notes.zumafi.com/docs/anatomy/</link>
-        <pubDate>Sat, 11 Jan 2020 14:09:21 +0900</pubDate>
+        <title>Markdown Basics</title>
+        <link>https://notes.zumafi.com/docs/hugomd/coremarkdown/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://notes.zumafi.com/docs/anatomy/</guid>
-        <description>Anatomy MCQ Discussion Abdomen MCQs Anterior Abdominal wall
-Inguinal canal
-Peritoneum
-Spleen
-Urinary bladder and Pelvic ureters
-Rectum
-Other
-Kidneys
-Upper Limb MCQs Shoulder Joint
-Cubital fossa
-Wrist and hand
-Foreram
-Axilla
-Thorax Posterior mediastinum
-Superior mediastinum
-Middle mediastinum
-Lungs
-Head and Neck Pharynx
-Infratemporal Fossa
-Recurrent laryngeal nerve
-Orbit and Eye
-Central Nervous system Brainstem
-Lower limb Thigh
-Leg
-Nerves of lower limb
-Blood supply of lowerlimb
-Theory   Upperlimb</description>
+        <guid>https://notes.zumafi.com/docs/hugomd/coremarkdown/</guid>
+        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       </item>
       
       <item>
@@ -273,15 +156,6 @@ Theory   Upperlimb</description>
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
 caluere tempus&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title>Section</title>
-        <link>https://notes.zumafi.com/docs/anatomy/lowerlimb/sections/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://notes.zumafi.com/docs/anatomy/lowerlimb/sections/</guid>
-        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       </item>
       
       <item>
@@ -318,6 +192,16 @@ caluere tempus&lt;/p&gt;</description>
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
 caluere tempus&lt;/p&gt;</description>
+      </item>
+      
+      <item>
+        <title>Basics of lowerlimb</title>
+        <link>https://notes.zumafi.com/docs/anatomy/lowerlimb/basicsoflowerlimb/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://notes.zumafi.com/docs/anatomy/lowerlimb/basicsoflowerlimb/</guid>
+        <description>Basics of lower limb Bone   What is the pectineal line?
+The pectineal line (pecten pubis) of the pubis is a ridge on the superior ramus of the pubic bone, it passes to the pubic tubercle as a continuation of the arcuate line. The pecten pubis forms part of the pelvic brim. Lying across it are fibers of the pectineal ligament and the proximal origin of the pectineus muscle.</description>
       </item>
       
     
